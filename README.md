@@ -1,6 +1,6 @@
-# Logos Docs template
+# Logos Docs Template
 
-The template repository for docs using [logos-docusaurus-plugins](https://github.com/acid-info/logos-docusaurus-plugins)
+The template repository for docs using [logos-docusaurus-plugins](https://github.com/acid-info/logos-docusaurus-plugins).
 
 
 ## Use cases
